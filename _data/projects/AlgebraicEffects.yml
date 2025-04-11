@@ -15,8 +15,7 @@ tags:
 - eff
 - pure
 - javascript
-- library
-- typescript
+- libraries
 upforgrabs:
   name: help wanted
   link: https://github.com/phenax/algebraic-effects/labels/help%20wanted
